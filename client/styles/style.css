@@ -1,0 +1,51 @@
+html {
+  font-family: Helvetica, Sans-Serif;
+}
+
+.tableau-vis {
+  width: 80%;
+}
+
+button:focus {
+  outline: 0;
+}
+
+.dir {
+  color: white;
+  font-size: 15px;
+}
+
+.performace-highlight {
+  font-size: 50px;
+  color: white;
+  padding: 0px;
+  margin: 0px;
+}
+
+.highlight-box {
+  background-color: #e97824;
+  border-color: #a59e96;
+  border-style: solid;
+}
+
+.performace-desc {
+  padding: 0px;
+  margin: 0px;
+  color: white;
+}
+
+.navbar .dropdown-menu .form-control {
+  width: 200px;
+  color: white;
+}
+
+#head-banner {
+  background-color: #114058;
+  height: 60px;
+}
+
+#head_logo {
+  margin-left: 150px;
+  height: 60px;
+  object-fit: cover;
+}
